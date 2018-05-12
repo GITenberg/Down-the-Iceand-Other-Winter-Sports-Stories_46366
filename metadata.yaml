@@ -1,0 +1,34 @@
+_repo: Down-the-Iceand-Other-Winter-Sports-Stories_46366
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46366-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sherman, Harold M. (Harold Morrow)
+    aliases:
+    - Morrow, Edward J.
+    - Sherman, Harold Morrow
+    birthdate: 1898
+    deathdate: 1987
+    gutenberg_agent_id: '32076'
+    url: http://www.gutenberg.org/2009/agents/32076
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Hockey -- Juvenile fiction'
+- !lcsh 'Winter sports -- Juvenile fiction'
+- !lcsh 'Skis and skiing -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: Down the ice -- The ice cyclone -- Crabby -- The ski battle -- In
+  wrong right -- The ski police -- The penalty box -- Criss-crossed skis.
+title: Down the Ice, and Other Winter Sports Stories
+url: http://www.gutenberg.org/ebooks/46366
